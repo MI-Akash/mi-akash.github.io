@@ -11,21 +11,11 @@
 </figure>
 
 <figure>
-    <figcaption><strong>Turtle bot successfully reaches the target</strong></figcaption>
+    <figcaption><strong>Pytree viewer and derection window</strong></figcaption>
     <img src="images/robotMovingsuccess.png" alt="Photo 2" width="1080">
     
 </figure>
 
-<figure>
-    <figcaption><strong>Gazebo</strong></figcaption>
-    <img src="images/Gazebo.png" alt="Photo 2" width="1080">
-    
-</figure>
 
-<figure>
-    <figcaption><strong>Rviz</strong></figcaption>
-    <img src="images/rviz.png" alt="Photo 2" width="1080">
-    
-</figure>
 
 
