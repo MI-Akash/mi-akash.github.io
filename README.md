@@ -12,7 +12,7 @@
 
 <figure>
     <figcaption><strong>Pytree viewer and derection window</strong></figcaption>
-    <img src="images/robotMovingsuccess.png" alt="Photo 2" width="1080">
+    <img src="images/pytreeviewer.png" alt="Photo 2" width="1080">
     
 </figure>
 
