@@ -15,7 +15,7 @@
     
 </figure>
 
-<h2>Object detection for the simulated camera sensor/h2>
+<h2>Object detection for the simulated camera sensor</h2>
 
 <figure>
     <figcaption><strong>Fire hydrant is detected</figcaption>
