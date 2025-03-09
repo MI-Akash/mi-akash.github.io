@@ -29,7 +29,7 @@
 </figure>
 <figure>
     <figcaption><strong>Bowl is detected as surfboard</figcaption>
-    <img src="images/det_bowl.png" alt="Photo 1" width="1080">
+    <img src="images/det_bowl1.png" alt="Photo 1" width="1080">
     
 </figure>
 
