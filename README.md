@@ -19,12 +19,12 @@
 
 <figure>
     <figcaption><strong>Fire hydrant is detected</figcaption>
-    <img src="images/det_fire.png" alt="Photo 1" width="1080">
+    <img src="images/detfire.png" alt="Photo 1" width="1080">
     
 </figure>
 <figure>
     <figcaption><strong>Stop sign is detected</figcaption>
-    <img src="images/det_stop.png" alt="Photo 1" width="1080">
+    <img src="images/detstop.png" alt="Photo 1" width="1080">
     
 </figure>
 <figure>
@@ -37,17 +37,17 @@
 
 <figure>
     <figcaption><strong>Qdrant database - Metadata for fire hydrant</figcaption>
-    <img src="images/log_fire.png" alt="Photo 1" width="1080">
+    <img src="images/logfire.png" alt="Photo 1" width="1080">
     
 </figure>
 <figure>
     <figcaption><strong>Qdrant database - Metadata for stop sign</figcaption>
-    <img src="images/log_stop.png" alt="Photo 1" width="1080">
+    <img src="images/logstop.png" alt="Photo 1" width="1080">
     
 </figure>
 <figure>
     <figcaption><strong>Qdrant database - Metadata for surfboard</figcaption>
-    <img src="images/log_bowl.png" alt="Photo 1" width="1080">
+    <img src="images/logbowl.png" alt="Photo 1" width="1080">
     
 </figure>
 
